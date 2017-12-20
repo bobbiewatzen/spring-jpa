@@ -1,0 +1,1 @@
+A Spring MVC project with JPA Hibernate
